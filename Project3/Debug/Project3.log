@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\welcome\desktop\hackarank\project3\source.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\welcome\desktop\hackarank\project3\source.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\welcome\desktop\hackarank\project3\source.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> C:\Users\Welcome\Desktop\hackarank\Debug\Project3.exe

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\welcome\desktop\hackarank\getmoneyspent\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\welcome\desktop\hackarank\getmoneyspent\source.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\welcome\desktop\hackarank\getmoneyspent\source.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\welcome\desktop\hackarank\getmoneyspent\source.cpp(37): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\users\welcome\desktop\hackarank\getmoneyspent\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\welcome\desktop\hackarank\getmoneyspent\source.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  getMoneySpent.vcxproj -> C:\Users\Welcome\Desktop\hackarank\Debug\getMoneySpent.exe

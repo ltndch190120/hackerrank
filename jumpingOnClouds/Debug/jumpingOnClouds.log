@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\welcome\desktop\hackarank\jumpingonclouds\source.cpp(32): warning C4018: '<=': signed/unsigned mismatch
+  jumpingOnClouds.vcxproj -> C:\Users\Welcome\Desktop\hackarank\Debug\jumpingOnClouds.exe

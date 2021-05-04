@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\welcome\desktop\hackarank\camelcase\source.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  camelCase.vcxproj -> C:\Users\Welcome\Desktop\hackarank\Debug\camelCase.exe

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\welcome\desktop\hackarank\quicksort1\source.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\welcome\desktop\hackarank\quicksort1\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\welcome\desktop\hackarank\quicksort1\source.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\welcome\desktop\hackarank\quicksort1\source.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  quickSort1.vcxproj -> C:\Users\Welcome\Desktop\hackarank\Debug\quickSort1.exe

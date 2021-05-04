@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\welcome\desktop\c++ code\hackarank\pangrams\source.cpp(28): error C3861: 'check': identifier not found
+c:\users\welcome\desktop\c++ code\hackarank\pangrams\source.cpp(28): warning C4805: '==': unsafe mix of type 'unknown-type' and type 'bool' in operation
+c:\users\welcome\desktop\c++ code\hackarank\pangrams\source.cpp(43): error C3861: 'check2': identifier not found
+c:\users\welcome\desktop\c++ code\hackarank\pangrams\source.cpp(43): warning C4805: '==': unsafe mix of type 'unknown-type' and type 'bool' in operation
+c:\users\welcome\desktop\c++ code\hackarank\pangrams\source.cpp(45): error C2661: 'std::vector<int,std::allocator<_Ty>>::push_back': no overloaded function takes 0 arguments
+          with
+          [
+              _Ty=int
+          ]
+c:\users\welcome\desktop\c++ code\hackarank\pangrams\source.cpp(46): error C2143: syntax error: missing ';' before '}'

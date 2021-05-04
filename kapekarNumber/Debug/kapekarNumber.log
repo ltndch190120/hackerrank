@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\welcome\desktop\hackarank\kapekarnumber\source.cpp(32): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  kapekarNumber.vcxproj -> C:\Users\Welcome\Desktop\hackarank\Debug\kapekarNumber.exe

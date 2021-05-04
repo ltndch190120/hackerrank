@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\welcome\desktop\hackarank\equalizethearray\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  EqualizeTheArray.vcxproj -> C:\Users\Welcome\Desktop\hackarank\Debug\EqualizeTheArray.exe
